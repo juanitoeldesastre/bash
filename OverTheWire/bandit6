@@ -1,0 +1,13 @@
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
+
+/var/lib/dpkg/info/bandit7.password
+
+2>/dev/null este comando redirige todos los mensajes de error y los manda a null
+
+mv /* /dev/null Comando redirige todos los archivos desde la raiz y los manda a null
+nunca ejecutar, este comando almenos desde mi maquina
+comando destructivo 
+
+2 en unix es el descriptor para la salida de error estándar (stderr)

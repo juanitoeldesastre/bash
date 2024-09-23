@@ -1,0 +1,3 @@
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+Facilito find ./* -type f -exec file {} + | grep "*" | cat ./inhere/-file07
