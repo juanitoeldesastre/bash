@@ -1,1 +1,4 @@
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 
+base64 -d data.txt 
+es para decodificar un archivo de texto
